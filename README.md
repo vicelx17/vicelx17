@@ -59,8 +59,7 @@ Focus on backend development, database design, software architecture, and modern
   ![Vicente's GitHub stats](https://github-readme-stats.vercel.app/api?username=vicelx17&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true)
   
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vicelx17&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vicelx17&theme=tokyonight&hide_border=true&background=0D1117)
+
   
 </div>
 
